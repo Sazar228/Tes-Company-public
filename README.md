@@ -6,9 +6,11 @@
 Многостраничный сайт на Vue 3, с адаптивной вёрсткой под мобильные устройства и планшеты, анимациями появления секций и каталогом продукции.
 
 ## Стек
-- Vue 3 (Composition API)
+- HTML5, CSS3, JavaScript
+- Vue 3 (Composition API, composables, Provide/Inject)
 - Vue Router
 - Tailwind CSS
+- Lenis
 
 ## Демо
 Посмотреть сайт: https://tes-company.vercel.app/
